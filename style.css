@@ -2,3 +2,8 @@ p{text-align: center;}
 .center{text-align: center;}
 img{display: block; width: 256px; margin: 0 auto;}
 *{ font-family:'Courier New', Courier, monospace}
+header{background-color: goldenrod;}
+footer{background-color: rgb(30, 30, 34);}
+main{background-color: rgb(84, 83, 92);}
+.white{color:aliceblue}
+body {margin: 0; background-color: black;}
